@@ -2,6 +2,7 @@
 - This repositroy contains the codebase for the Cambrdige Spark SL7 AI Apprenticheship
 - The notebooks contained within are a combination of teaching material and practicals
 ------
+```
 ## Folder Structure
 ├── [01 Data Science Toolbox](./01_Data_Science_Toolbox)
 ├── [02 Introduction to Machine Learning](./02_Introduction_to_Machine_Learning)
@@ -14,7 +15,7 @@
 ├── [09 Time Series Analysis](./09_Time_Series_Analysis)
 ├── [10 Neural Networks & Deep Learning](./10_Neural_Networks_and_Deep_Learning)
 └── [11 Model Explainability & Interpretability](./11_Model_Explainability_and_Interpretability)
-
+```
 ------
 ## To-Dos:
 1. Create Folder Strucutre within [README.md](./README.md)
