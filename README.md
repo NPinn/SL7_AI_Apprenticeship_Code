@@ -69,7 +69,7 @@
 │    └── 05_Convolutional_Neural_Networks                                  #
 │    └── 06_Training_RNNs                                                  #
 │    └── 07_Graph_Neural_Networks                                          #
-└── 11_Model_Explainability_and_Interpretability/                     #
+├── 11_Model_Explainability_and_Interpretability/                     #
 │    └── 01_Introduction_to_Explainability_and_Interpretability            #
 │    └── 02_Global_Explainations                                           #
 ```
