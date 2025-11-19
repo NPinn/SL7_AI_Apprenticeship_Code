@@ -2,6 +2,10 @@
 - This repositroy contains the codebase for the Cambrdige Spark SL7 AI Apprenticheship
 - The notebooks contained within are a combination of teaching material and practicals
 ------
+## Instructions of Use
+- Please fork this Repository if you want to safely run code within this project
+
+------
 ## Folder Structure
 ```
 ├── 01_Data_Science_Toolbox/                                          #
@@ -65,7 +69,7 @@
 │    └── 05_Convolutional_Neural_Networks                                  #
 │    └── 06_Training_RNNs                                                  #
 │    └── 07_Graph_Neural_Networks                                          #
-└── 11_Model_Explainability_and_Interpretability/                     #
+├── 11_Model_Explainability_and_Interpretability/                     #
 │    └── 01_Introduction_to_Explainability_and_Interpretability            #
 │    └── 02_Global_Explainations                                           #
 ```
