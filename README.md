@@ -2,6 +2,10 @@
 - This repositroy contains the codebase for the Cambrdige Spark SL7 AI Apprenticheship
 - The notebooks contained within are a combination of teaching material and practicals
 ------
+## Instructions of Use
+- Please fork this Repository if you want to safely run code within this project
+
+------
 ## Folder Structure
 ```
 ├── 01_Data_Science_Toolbox/                                          #
